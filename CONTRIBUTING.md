@@ -1,5 +1,4 @@
 
-````
 # Contributing to Smart Assist
 
 We’re excited that you want to contribute to **Smart Assist** 🎉  
@@ -10,11 +9,13 @@ Follow these steps to get started:
 ## How to Contribute
 
 1. **Fork the repository** on GitLab.  
+
 2. **Clone your fork** to your local machine:
    ```bash
    git clone https://gitlab.com/<your-username>/smart-assist.git
    cd smart-assist
-````
+   ```
+
 
 3. **Create a new branch** for your work:
 
